@@ -32,7 +32,7 @@ int SumUntil99(void)
     return Sum;
 }
 
-void PrintTotalCommission(int Sum)
+void PrintTheSumoOfTheNumbers(int Sum)
 {
     cout << "Sum = " << Sum << endl;
 }

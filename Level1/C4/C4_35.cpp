@@ -46,7 +46,7 @@ stPiggyBankContent PiggyBankCalculator(stPiggyBankContent PiggyBankContent)
     return PiggyBankContent;
 }
 
-void PrintTotalCommission(stPiggyBankContent PiggyBankContent)
+void PrintPiggyBankCalculationResults(stPiggyBankContent PiggyBankContent)
 {
     cout << "Total Dollars is  " << PiggyBankContent.TotalDollars << endl;
     cout << "Total Pennis is  " << PiggyBankContent.TotalPennis << endl;
@@ -54,5 +54,5 @@ void PrintTotalCommission(stPiggyBankContent PiggyBankContent)
 
 int main()
 {
-    PrintTotalCommission(PiggyBankCalculator(ReadNumber()));
+    PrintPiggyBankCalculationResults(PiggyBankCalculator(ReadNumber()));
 }

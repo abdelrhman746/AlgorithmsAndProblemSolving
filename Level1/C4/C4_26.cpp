@@ -17,16 +17,12 @@ stNumbers ReadNumber()
     return Numbers;
 }
 
-
-
 void PrintNumbers(stNumbers Numbers)
 {
-
     for (int i = 1; i <= Numbers.Num; i++)
     {
         cout << i << "\t";
     }
-
 }
 
 int main()

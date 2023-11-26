@@ -17,8 +17,6 @@ stNumbers ReadNumber()
     return Numbers;
 }
 
-
-
 void PrintNumbers(stNumbers Numbers)
 {
 

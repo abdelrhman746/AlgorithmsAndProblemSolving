@@ -47,7 +47,7 @@ stNumbers SimpleCalculator(stNumbers Numbers)
     return Numbers;
 }
 
-void PrintTotalCommission(stNumbers Numbers)
+void PrintSimpleCalculatorResult(stNumbers Numbers)
 {
     cout << "Result = " << Numbers.Operand1 << " " << Numbers.Operation << " " << Numbers.Operand2 << " = " << Numbers.Result << endl;
 }
