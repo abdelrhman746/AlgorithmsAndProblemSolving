@@ -1,0 +1,8 @@
+﻿  C7_37.cpp
+C:\Users\abdel\source\repos\C7_37\C7_37\C7_37.cpp(32,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\abdel\source\repos\C7_37\C7_37\C7_37.cpp(78,25): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\abdel\source\repos\C7_37\C7_37\C7_37.cpp(148,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\abdel\source\repos\C7_37\C7_37\C7_37.cpp(169,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\abdel\source\repos\C7_37\C7_37\C7_37.cpp(189,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\abdel\source\repos\C7_37\C7_37\C7_37.cpp(79): warning C4715: 'CountLetters': not all control paths return a value
+  C7_37.vcxproj -> C:\Users\abdel\source\repos\C7_37\x64\Debug\C7_37.exe
