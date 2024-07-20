@@ -1,0 +1,3 @@
+﻿  C7_28.cpp
+C:\Users\abdel\source\repos\C7_28\C7_28\C7_28.cpp(32,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  C7_28.vcxproj -> C:\Users\abdel\source\repos\C7_28\x64\Debug\C7_28.exe

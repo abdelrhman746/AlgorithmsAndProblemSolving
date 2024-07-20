@@ -1,0 +1,13 @@
+﻿  C7_51.cpp
+C:\Users\abdel\source\repos\C7_51\C7_51\C7_51.cpp(58,22): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\abdel\source\repos\C7_51\C7_51\C7_51.cpp(104,25): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\abdel\source\repos\C7_51\C7_51\C7_51.cpp(174,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+C:\Users\abdel\source\repos\C7_51\C7_51\C7_51.cpp(195,26): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\abdel\source\repos\C7_51\C7_51\C7_51.cpp(215,27): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\abdel\source\repos\C7_51\C7_51\C7_51.cpp(252,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\abdel\source\repos\C7_51\C7_51\C7_51.cpp(361,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\abdel\source\repos\C7_51\C7_51\C7_51.cpp(365,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\abdel\source\repos\C7_51\C7_51\C7_51.cpp(105): warning C4715: 'CountLetters': not all control paths return a value
+C:\Users\abdel\source\repos\C7_51\C7_51\C7_51.cpp(655): warning C4715: 'DeleteClientDataFromFile': not all control paths return a value
+C:\Users\abdel\source\repos\C7_51\C7_51\C7_51.cpp(701): warning C4715: 'UpdateClientByAccountNumber': not all control paths return a value
+  C7_51.vcxproj -> C:\Users\abdel\source\repos\C7_51\x64\Debug\C7_51.exe
